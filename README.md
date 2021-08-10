@@ -27,7 +27,9 @@ All the command for your french rp
 -
 -Chambre O5
 -
--Projecteur         Chemise O5            Barre de censure
+-Projecteur         
+
+-Chemise O5            Barre de censure
 -7115165885      shirt me 6883771477     hat me 4196166312
 -
 -Bouton AW          Pantalon O5
